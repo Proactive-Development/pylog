@@ -1,4 +1,4 @@
-# pylog pypi-aka:pythonlog
+# pylog aka:pythonlog
 The new python logger
 ## Install
 `pip install pythonlog`
