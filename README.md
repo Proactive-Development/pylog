@@ -1,4 +1,5 @@
 # pylog aka:pythonlog
+<img width="100px" src="https://raw.githubusercontent.com/awesomelewis2007/pylog/main/logo.png">
 The new python logger
 ## Install
 `pip install pythonlog`
