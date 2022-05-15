@@ -5,9 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='pythonlog',
-    url='https://github.com/awesomelewis2007/pylog/',
-    author='Lewis Evans',
-    author_email='awesomelewis2007@gmail.com',
+    url='https://github.com/Proactive-Development/pylog/',
+    author='Proactive Development',
     packages=['pylog'],
     install_requires=[''],
     version='0.1.3',
